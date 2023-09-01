@@ -1,2 +1,20 @@
-# AI-Snake
-My C++ implementation of the A* algorithm in Snake using SFML
+#AI SNAKE
+#by Chris Keiningham
+
+My fully object-oriented implementation of the classic game Snake in C++, with an Artificial Intelligence spin!
+Uses the classic A* pathfinding algorithm.
+Made using SFML.
+
+#Features
+
+Normal / AI play
+Normal bounds includes collision detection as intended.
+AI play has no collision.
+AI play includes a debug console, which shows the searched cells as well as the path chosen.
+
+#Keybinds
+1 - normal speed
+2 - 2x speed
+3 - 4x speed
+4 - 6x speed
+5 - Max speed

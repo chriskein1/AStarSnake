@@ -1,5 +1,4 @@
-# AI SNAKE
-# by Chris Keiningham
+# AStarSnake by Chris Keiningham
 
 ![Snake 10_30_2023 2_53_15 PM](https://github.com/chriskein1/AI-Snake/assets/130263834/45ac1f71-aec6-4f0a-9ab9-4b6ffa09259d)
 
@@ -12,7 +11,7 @@ Made using SFML.
 
 Normal / AI play
 Normal bounds includes collision detection as intended.
-AI play has no collision.
+AI play is a strict implementation of A*. Bounds checking WIP.
 AI play includes a debug console, which shows the searched cells as well as the path chosen.
 
 # Keybinds

@@ -1,4 +1,4 @@
-# AStarSnake by Chris Keiningham
+# A* Snake by Chris Keiningham
 
 ![Snake 10_30_2023 2_53_15 PM](https://github.com/chriskein1/AI-Snake/assets/130263834/45ac1f71-aec6-4f0a-9ab9-4b6ffa09259d)
 
